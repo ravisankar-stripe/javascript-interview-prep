@@ -1,0 +1,9 @@
+{
+  "name": "javascript-interview-prep",
+  "version": "1.0.0",
+  "description": "Ensure you are setup for interviewing at Stripe in JavaScript",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  },
+  "type": "module"
+}
